@@ -1,9 +1,3 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1642289805782-1c30f6a9e3a3?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NDQzOTI0NTc&ixlib=rb-1.2.1&q=85
-coverY: 0
----
-
 # \[极客时间] DDD实战课 01基础篇
 
 > 来源极客时间《DDD实战课》--欧创新
